@@ -1,0 +1,1201 @@
+/* latin-ext */
+@font-face {
+     font-family: 'Lato';
+     font-style: italic;
+     font-weight: 100;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCLC79U11vU.woff2) format('woff2');
+     unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+     font-family: 'Lato';
+     font-style: italic;
+     font-weight: 100;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-oPCLC79U1.woff2) format('woff2');
+     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* latin-ext */
+@font-face {
+     font-family: 'Lato';
+     font-style: italic;
+     font-weight: 300;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQftx9897sxZ.woff2) format('woff2');
+     unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+     font-family: 'Lato';
+     font-style: italic;
+     font-weight: 300;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_Gwftx9897g.woff2) format('woff2');
+     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* latin-ext */
+@font-face {
+     font-family: 'Lato';
+     font-style: italic;
+     font-weight: 400;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2) format('woff2');
+     unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+     font-family: 'Lato';
+     font-style: italic;
+     font-weight: 400;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2) format('woff2');
+     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* latin-ext */
+@font-face {
+     font-family: 'Lato';
+     font-style: italic;
+     font-weight: 700;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2) format('woff2');
+     unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+     font-family: 'Lato';
+     font-style: italic;
+     font-weight: 700;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2) format('woff2');
+     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* latin-ext */
+@font-face {
+     font-family: 'Lato';
+     font-style: italic;
+     font-weight: 900;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQftx9897sxZ.woff2) format('woff2');
+     unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+     font-family: 'Lato';
+     font-style: italic;
+     font-weight: 900;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_Gwftx9897g.woff2) format('woff2');
+     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* latin-ext */
+@font-face {
+     font-family: 'Lato';
+     font-style: normal;
+     font-weight: 100;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-qNiXg7eU0.woff2) format('woff2');
+     unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+     font-family: 'Lato';
+     font-style: normal;
+     font-weight: 100;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AXC-qNiXg7Q.woff2) format('woff2');
+     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* latin-ext */
+@font-face {
+     font-family: 'Lato';
+     font-style: normal;
+     font-weight: 300;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPGQ3q5d0N7w.woff2) format('woff2');
+     unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+     font-family: 'Lato';
+     font-style: normal;
+     font-weight: 300;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPGQ3q5d0.woff2) format('woff2');
+     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* latin-ext */
+@font-face {
+     font-family: 'Lato';
+     font-style: normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2) format('woff2');
+     unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+     font-family: 'Lato';
+     font-style: normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2) format('woff2');
+     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* latin-ext */
+@font-face {
+     font-family: 'Lato';
+     font-style: normal;
+     font-weight: 700;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2) format('woff2');
+     unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+     font-family: 'Lato';
+     font-style: normal;
+     font-weight: 700;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2) format('woff2');
+     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* latin-ext */
+@font-face {
+     font-family: 'Lato';
+     font-style: normal;
+     font-weight: 900;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPGQ3q5d0N7w.woff2) format('woff2');
+     unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+     font-family: 'Lato';
+     font-style: normal;
+     font-weight: 900;
+     font-display: swap;
+     src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwiPGQ3q5d0.woff2) format('woff2');
+     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* homepage styles start*/
+.component.header.newNav {
+     padding: 0px;
+     min-height: 70px;
+     max-width: 100vw;
+     position: sticky;
+     top: 0;
+     z-index: 50
+}
+
+.component.header.newNav .utility {
+     display: none !important;
+}
+
+.component.header.newNav .logo {
+     z-index: 1;
+     min-height: 70px;
+     display: flex;
+     width: auto;
+     justify-content: center;
+     align-items: center;
+     background: #003A63;
+     padding: 0px;
+     transition: 0.4s all ease;
+}
+
+.component.header.newNav:after {
+     content: "";
+     height: 100%;
+     width: 100%;
+     position: absolute;
+     right: 0;
+     bottom: 0;
+     top: 0;
+     left: 0;
+     background: #5867BA;
+     transition: 0.4s all ease;
+}
+
+.component.header.newNav.scrolled:after {
+     background: #003A63;
+     box-shadow: 0 2px 8px 0 rgba(0, 0, 0, .07);
+}
+
+.component.header.newNav.scrolled .logo {
+     padding-left: 0px;
+}
+
+.component.header.newNav .logo img {
+     transition: 0.3s all ease;
+     max-height: 70px
+}
+
+.component.header.newNav.scrolled .logo img {
+     transform: translatex(-18px)
+}
+
+.component.header.newNav .component.navigation .navbar-nav>li>a {
+     font-family: lato;
+     font-weight: 500;
+     line-height: 48px;
+     transition: 0.3s all ease;
+     border-bottom: 5px solid transparent;
+     cursor: pointer;
+
+}
+
+.component.header.newNav .component.navigation .navbar-nav>li:last-child>a {
+     color: #FFD100;
+     -webkit-text-stroke: 0.5px #FFD100;
+}
+
+.component.header.newNav .component.navigation .navbar-nav>li:hover>a {
+     color: #FFD100;
+     border-bottom: 5px solid white;
+     -webkit-text-stroke: 0.5px #FFD100;
+}
+
+.component.header.newNav .component.navigation {
+     height: 70px;
+     justify-content: end;
+     align-items: center;
+
+}
+
+.component.header.newNav .component.navigation .navbar-nav>li:after {
+     display: none;
+}
+
+.component.header.newNav .component.navigation .backing {
+     top: 0;
+     transition: 0s all none !important;
+}
+
+.component.header.newNav .component.navigation .dropdown-menu {
+     padding: 10px 0px;
+     padding-top: 0px;
+}
+
+.component.header.newNav .component.navigation .dropdown-menu ul li {
+     margin-bottom: 0px;
+}
+
+.component.header.newNav .component.navigation .dropdown-menu ul li a {
+     font-size: 14px;
+     font-family: 'Lato';
+     color: #003A63;
+     transition: 0.3s all ease;
+     /* white-space: normal; */
+}
+
+.component.header.newNav .component.navigation .dropdown-menu ul li a:hover {
+     -webkit-text-stroke: 0.5px #003A63;
+}
+
+.component.header.newNav .component.navigation .navbar-nav .expand {
+     width: 100%;
+     height: 100%;
+}
+
+.component.header.newNav .component.navigation .navbar-nav .expand:before {
+     display: none;
+}
+
+.component.hero.homepage-hero {
+     background: #5867BA;
+
+}
+
+
+.component.header.newNav .component.navigation .navbar-nav .dropdown-menu {
+     display: block;
+     opacity: 0;
+     visibility: hidden;
+     transition: opacity 0.3s ease-out, visibility 0.2s ease-out;
+     max-width: max-content;
+}
+
+.component.header.newNav .component.navigation .navbar-nav .dropdown:hover .dropdown-menu {
+     opacity: 1;
+     visibility: visible;
+}
+
+.component.header.newNav .component.navigation .dropdown-menu .two-col {
+     columns: 1;
+     left: 0;
+}
+
+.component.header.newNav .component.navigation .navbar-collapse {
+     background: transparent !important;
+}
+
+.newHomeHero {
+     background: #5867BA;
+     overflow: hidden;
+}
+
+.newHomeHero .content {
+     display: flex;
+     justify-content: space-between;
+
+}
+
+.newHomeHero .content .copy {
+     max-width: 511px;
+     color: white;
+     padding-top: 64px;
+}
+
+.newHomeHero .content .copy h1 {
+     font-family: lato;
+     font-size: 56px;
+     font-weight: 700;
+     line-height: 56px;
+     margin-bottom: 0px;
+     max-width: 340px;
+     color: white;
+     margin-top: 0px;
+}
+
+.newHomeHero .content .copy span {
+     color: #FFD100;
+}
+
+
+.newHomeHero .content .copy p {
+     font-family: lato;
+     margin-top: 30px;
+     max-width: 335px;
+     color: white;
+     font-size: 18px;
+     line-height: 22px;
+     margin-bottom: 0px;
+     font-weight: 400;
+}
+
+.newHomeHero .content .copy .yellowCta {
+     margin-top: 35px;
+     display: block;
+     padding: 11px 13px;
+     font-family: lato;
+     font-size: 14px;
+     font-weight: 900;
+     text-decoration: none;
+     text-align: center;
+     background: #FFD100;
+     max-width: 188px;
+     letter-spacing: 1.87px;
+     position: relative;
+     margin-bottom: 55px;
+     text-transform: uppercase;
+     border: 1px solid transparent;
+}
+
+.newHomeHero .content .copy .yellowCta {
+     border: 1px solid #FFD100;
+}
+
+
+.newHomeHero .content .copy .yellowCta span {
+     color: #003A63;
+     position: relative;
+     transition: all .3s cubic-bezier(.7, 0, .2, 1);
+}
+
+.newHomeHero .content .copy .yellowCta:before {
+     content: "";
+     background-color: #5867BA;
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     transform: scaleY(0);
+     transition: transform .3s cubic-bezier(.7, 0, .2, 1), -webkit-transform .3s cubic-bezier(.7, 0, .2, 1);
+     transform-origin: 50% 0;
+}
+
+.newHomeHero .content .copy .yellowCta:hover:before {
+     transform-origin: 50% 100%;
+     transform: scaleY(1);
+}
+
+.newHomeHero .content .copy .yellowCta:hover span {
+     color: white;
+}
+
+.newHomeHero .content .video {
+     width: 100%;
+     max-width: 636px;
+     height: auto;
+     position: relative;
+     transition: 0.1s all ease;
+}
+
+.newHomeHero .content .video video {
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
+     width: 123%;
+}
+
+.newFloatingCard {
+     position: relative;
+}
+
+.newFloatingCard:before {
+     content: "";
+     position: absolute;
+     top: 0;
+     bottom: 50%;
+     left: 0;
+     right: 0;
+     background: #5867BA;
+}
+
+.newFloatingCard .cardContainer {
+     display: flex;
+     column-gap: 25px;
+     z-index: 1;
+     position: relative;
+}
+
+.newFloatingCard .cardContainer .newCard {
+     padding: 34px;
+     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+     background: white;
+     flex-basis: 100%
+}
+
+.newFloatingCard .cardContainer .newCard .title {
+     color: #003A63;
+     font-family: "Lato";
+     font-size: 26px;
+     font-weight: 700;
+     font-style: normal;
+     letter-spacing: 0px;
+     text-align: left;
+     line-height: 30px;
+     margin-bottom: 20px;
+}
+
+.newFloatingCard .cardContainer .newCard .description {
+     color: #003A63;
+     font-family: "Lato";
+     font-size: 14px;
+     font-weight: 400;
+     font-style: normal;
+     letter-spacing: 0px;
+     text-align: left;
+     line-height: 22px;
+}
+
+.newFloatingCard .cardContainer .newCard .blueCta {
+     margin-top: 20px;
+     display: block;
+     padding: 11px 13px;
+     font-family: lato;
+     font-size: 14px;
+     font-weight: 900;
+     text-decoration: none;
+     border: 1px solid #003A63;
+     background: #003A63;
+     max-width: 188px;
+     letter-spacing: 1.87px;
+     position: relative;
+     margin-bottom: 0px;
+     text-align: center;
+     text-transform: uppercase;
+}
+
+.newFloatingCard .cardContainer .newCard .blueCta span {
+     color: white;
+     position: relative;
+     transition: all .3s cubic-bezier(.7, 0, .2, 1)
+}
+
+.newFloatingCard .cardContainer .newCard .blueCta:before {
+     content: "";
+     background-color: #fff;
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     transform: scaleY(0);
+     transition: transform .3s cubic-bezier(.7, 0, .2, 1), -webkit-transform .3s cubic-bezier(.7, 0, .2, 1);
+     transform-origin: 50% 0;
+
+}
+
+.newFloatingCard .cardContainer .newCard .blueCta:hover:before {
+     transform-origin: 50% 100%;
+     transform: scaleY(1);
+}
+
+.newFloatingCard .cardContainer .newCard .blueCta:hover span {
+     color: #003A63;
+}
+
+
+/* covarage section */
+.newCovarageCarousel {
+
+     margin-bottom: -20px;
+}
+
+.newCovarageCarousel .topText {
+     text-align: center;
+     color: #003A63;
+}
+
+.newCovarageCarousel .topText .title {
+     margin-top: 46px;
+     font-family: lato;
+     font-size: 36px;
+     font-weight: 700;
+     letter-spacing: 0px;
+     text-align: center;
+     line-height: 52px;
+
+}
+
+.newCovarageCarousel .topText .copy {
+     margin-top: 28px;
+     max-width: 841px;
+     opacity: 1;
+     font-family: lato;
+     font-size: 14px;
+     font-weight: 400;
+     letter-spacing: 0px;
+     text-align: center;
+     line-height: 22px;
+     margin-left: auto;
+     margin-right: auto;
+
+}
+
+.newCovarageCarousel .owl-carousel .animated {
+     animation-duration: 500ms;
+     animation-fill-mode: both;
+}
+
+.newCovarageCarousel .content .owl-stage-outer {
+     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+
+}
+
+.newCovarageCarousel .newCarousel {
+     margin-top: 50px;
+     background: #EBEBEB;
+}
+
+.newCovarageCarousel .newCarousel img {
+     max-height: 500px;
+     min-height: 300px;
+     object-fit: cover;
+     object-position: top;
+}
+
+.newCovarageCarousel .newCarousel .owl-carousel .slide-text {
+     font-family: lato;
+     padding: 36px 40px;
+     background-color: #FFD100;
+
+}
+
+.newCovarageCarousel .newCarousel .owl-carousel .slide-item {
+     flex-direction: column;
+}
+
+.newCovarageCarousel .newCarousel .owl-content {
+     font-family: lato;
+     margin-top: -30px;
+
+}
+
+.newCovarageCarousel .newCarousel .owl-content .owl-stage:after {
+     display: none;
+}
+
+.newCovarageCarousel .newCarousel .owl-content .switch-buttons {}
+
+.newCovarageCarousel .newCarousel .owl-content .switch-buttons .button {}
+
+.newCovarageCarousel .newCarousel .owl-content .content {
+     margin-bottom: 20px;
+}
+
+.newCovarageCarousel .newCarousel .owl-content .content .owl-item {
+
+     background-color: #FFD100;
+     color: #003A63;
+     padding: 40px 40px;
+     position: relative;
+     width: 100%;
+}
+
+.newCovarageCarousel .newCarousel .owl-content .content .carousel-card {
+     display: flex;
+     flex-direction: column;
+}
+
+.newCovarageCarousel .newCarousel .owl-content .content .owl-item:after {
+     content: "";
+     position: absolute;
+     max-width: 156px;
+     background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='34.6446701px' height='16.8274112px' viewBox='0 0 34.6446701 16.8274112' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3EFill 9 Copy 10@1x%3C/title%3E%3Cg id='LANDING-PAGE' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' opacity='1'%3E%3Cg id='30555-COM-23_CombinedInsuranceLP_v5_Business_DESKTOP' transform='translate(-1100.1777, -2593.8274)' fill='%23FFFFFF'%3E%3Cg id='Group-26-Copy' transform='translate(1100.1777, 2577)'%3E%3Cpath d='M26.4761051,16.8274112 C21.2018446,16.8274112 18.5645634,20.9018908 16.2380657,24.4966539 C13.9897925,27.9707101 12.0477725,30.9706496 8.16856493,30.9706496 C5.20539882,30.9706496 2.6061727,28.2933211 2.6061727,25.2411168 C2.6061727,22.0822051 5.10150227,19.511895 8.16856493,19.511895 C9.78923044,19.511895 11.1416979,20.0180551 12.4250016,21.1050393 L14.0804,19.0315563 C12.3289577,17.5485415 10.3950924,16.8274112 8.16856493,16.8274112 C3.66416586,16.8274112 0,20.6019902 0,25.2411168 C0,29.801846 3.74057815,33.6548223 8.16856493,33.6548223 C13.4428254,33.6548223 16.0798047,29.5806538 18.4063023,25.9858907 C20.6545755,22.5121456 22.5965955,19.511895 26.4761051,19.511895 C29.5431678,19.511895 32.0384974,22.0822051 32.0384974,25.2411168 C32.0384974,28.4003395 29.5431678,30.9706496 26.4761051,30.9706496 C24.6385857,30.9706496 22.5763599,30.4657339 19.9490454,26.8012844 L19.9363604,26.7832406 L18.3845565,29.1140035 C20.1897592,31.4637435 22.5938773,33.6548223 26.4761051,33.6548223 C30.9802022,33.6548223 34.6446701,29.8805544 34.6446701,25.2411168 C34.6446701,20.6019902 30.9802022,16.8274112 26.4761051,16.8274112' id='Fill-9-Copy-10'%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+     background-repeat: repeat;
+     width: 100%;
+     height: 100%;
+     right: 0;
+     top: 0;
+     background-size: 52px auto;
+}
+
+/* .newCovarageCarousel .newCarousel .owl-content .content .carousel-card:before {
+     content: "";
+     top: 0;
+     position: absolute;
+     bottom: 0;
+     right: 0;
+     left: 0;
+     height: 100%;
+     width: 100%;
+     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+} */
+
+
+.newCovarageCarousel .newCarousel .owl-content .content .carousel-card .top {
+     display: flex;
+     align-items: center;
+}
+
+.newCovarageCarousel .newCarousel .owl-content .content .carousel-card .top .title {
+     font-family: lato;
+     font-size: 14px;
+     font-weight: 900;
+     font-style: normal;
+     letter-spacing: 3px;
+     line-height: 22px;
+     margin-right: 10px;
+     margin-bottom: 0px;
+}
+
+.newCovarageCarousel .newCarousel .owl-content .content .carousel-card .top .switch-buttons {
+     display: flex;
+     column-gap: 10px;
+     cursor: pointer;
+}
+
+.newCovarageCarousel .newCarousel .owl-content .content .carousel-card .top .switch-buttons .button {
+     border: 1.5px solid #003A63;
+     border-radius: 50%;
+     height: 24px;
+     width: 24px;
+     position: relative;
+}
+
+.newCovarageCarousel .newCarousel .owl-content .content .top .switch-buttons .button.active:after {
+     content: "";
+     position: absolute;
+     top: 50%;
+     border-radius: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     background-color: #003A63;
+     height: 15px;
+     width: 15px;
+}
+
+.newCovarageCarousel .newCarousel .owl-content .content .carousel-card .bottom {}
+
+.newCovarageCarousel .newCarousel .owl-content .content .carousel-card .bottom .copy {
+     font-family: lato;
+     font-style: italic;
+     font-size: 20px;
+     font-weight: 400;
+     letter-spacing: 0px;
+     line-height: 26px;
+     max-width: 678px;
+}
+
+.newCovarageCarousel .newCarousel .owl-content .content .carousel-card .bottom .copy>* {
+     margin-bottom: 0px;
+}
+
+.newCovarageCarousel .newCarousel .owl-content .content .top {
+     margin-bottom: 20px;
+}
+
+.newCovarageCarousel .newCarousel .switch-buttons.mobile {
+     display: none;
+     column-gap: 10px;
+     justify-content: center;
+     margin-bottom: 20px;
+}
+
+.newCovarageCarousel .newCarousel .switch-buttons.mobile .button {
+     border: 1.5px solid #003A63;
+     border-radius: 50%;
+     height: 24px;
+     width: 24px;
+     position: relative;
+
+}
+
+.newCovarageCarousel .newCarousel .switch-buttons.mobile .button.active:after {
+     content: "";
+     position: absolute;
+     top: 50%;
+     border-radius: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     background-color: #003A63;
+     height: 15px;
+     width: 15px;
+}
+
+/* covarage caroucel end */
+
+
+@media (max-width: 1150px) {
+     .component.header.newNav .component.navigation .dropdown-menu ul li {
+          white-space: normal;
+          width: 300px;
+     }
+
+     .newHomeHero .content .copy {
+          z-index: 1;
+     }
+
+     .newHomeHero .content .video {
+          transform: translatex(-50px);
+
+     }
+}
+
+@media (max-width: 992px) {
+
+     /* home 992 start */
+     .component.header.newNav .component.navigation .dropdown-menu {
+          padding: 20px;
+          margin-top: -3px;
+          padding-top: 0px;
+     }
+
+     .component.header.newNav .component.navigation .dropdown-menu ul li a {
+          white-space: nowrap;
+     }
+
+     .component.header.newNav .component.navigation .dropdown-menu ul li {
+          width: 100%;
+          white-space: normal;
+     }
+
+     .newHomeHero .content {
+          flex-direction: column;
+     }
+
+     .newHomeHero .content .copy .yellowCta {
+          margin-bottom: -50px;
+     }
+
+     .newHomeHero .content .video {
+          transform: none;
+          margin-bottom: -10px;
+     }
+
+     .newHomeHero .content .video video {
+          width: 100%;
+     }
+
+     .newHomeHero .content .copy {
+          max-width: 100%;
+          padding-top: 20px;
+     }
+
+     .newHomeHero .content .copy h1 {
+          max-width: 100%;
+
+     }
+
+     .newHomeHero .content .copy p {
+          max-width: 100%;
+     }
+
+     .newCovarageCarousel .newCarousel .owl-content .content .owl-item {
+          padding-right: 80px;
+     }
+
+     .newCovarageCarousel .newCarousel .owl-content .content .owl-item:after {
+          max-width: 52px;
+     }
+
+     .newCovarageCarousel .topText .title {
+          font-size: 30px;
+          line-height: 32px;
+          margin-top: 40px;
+     }
+
+     .newCovarageCarousel .topText .copy {
+          margin-top: 20px;
+     }
+
+     .newCovarageCarousel .newCarousel {
+          margin-top: 30px;
+     }
+
+     .newCovarageCarousel .newCarousel .owl-content .content .carousel-card .bottom .copy {
+          font-size: 18px;
+          line-height: 28px;
+
+     }
+
+     /* home 992 end */
+     .newInsuranceProducts .sectionTitle {
+          font-size: 30px;
+          line-height: 32px;
+     }
+
+     .newInsuranceProducts .slide .slideContent {
+          grid-template-columns: repeat(2, 1fr);
+     }
+
+     .halfImgHalfText .text:before {
+          display: none;
+     }
+
+     .halfImgHalfText .text {
+          max-width: ;
+          padding-right: 80px;
+     }
+
+     .halfImgHalfText {
+          grid-template-columns: 1fr;
+     }
+
+     .halfImgHalfText img {
+          order: 1;
+     }
+
+     .halfImgHalfText .text .title,
+     .halfImgHalfText .text .subTitle {
+          font-size: 30px;
+          line-height: 32px;
+     }
+
+     .halfImgHalfText .text .top,
+     .halfImgHalfText .text .center {
+          margin-bottom: 25px;
+     }
+}
+
+
+
+@media (max-width: 768px) {
+     /* home 768 */
+
+     .component.header.newNav .component.navigation .navbar-toggler {
+          z-index: 1;
+          background: transparent !important;
+     }
+
+
+     .component.header.newNav .component.navigation .navbar-toggler .navbar-toggler-icon,
+     .component.header.newNav .component.navigation .navbar-toggler .navbar-toggler-icon:before,
+     .component.header.newNav .component.navigation .navbar-toggler .navbar-toggler-icon:after {
+          background: white;
+          border-radius: 5px;
+          height: 3px;
+          transition: 0.3s all ease;
+     }
+
+     .component.header.newNav,
+     .component.header.newNav.scrolled .logo,
+     .component.header.newNav .logo {
+          min-height: 55px;
+     }
+
+     .component.header.newNav .component.navigation .navbar-toggler {
+          margin-top: 6px;
+     }
+
+     .component.header.newNav .component.navigation .navbar-collapse {
+          background: #003A63 !important;
+
+     }
+
+     .component.header.newNav .component.navigation .navbar-collapse ul {
+          max-width: 540px;
+          margin-left: auto;
+          margin-right: auto;
+     }
+
+     .component.header.newNav .component.navigation .navbar-nav a,
+     .component.header.newNav .component.navigation .dropdown-menu ul li a {
+          color: white;
+     }
+
+     .component.header.newNav .component.navigation .navbar-nav>li:hover>a {
+          border-bottom: 0px;
+     }
+
+     .component.header.newNav .component.navigation .navbar-nav .dropdown-menu {
+          transition: max-height 0.5s ease-in-out, opacity 0.5s ease-in-out, visibility 0.5s ease-in-out;
+          overflow: hidden;
+          max-height: 0px;
+          background: #003A63;
+          padding: 0px;
+          opacity: 0;
+          visibility: hidden;
+     }
+
+     .component.header.newNav .component.navigation .navbar-nav .dropdown-menu.collapsing {
+          transition: all 0.2s ease-in-out;
+          height: 250px;
+          padding: 10px 20px;
+     }
+
+
+     .component.header.newNav .component.navigation .navbar-nav .dropdown-menu.show {
+          max-height: 500px;
+          padding: 10px 20px;
+          opacity: 1;
+          visibility: visible;
+     }
+
+     .component.header.newNav .component.navigation .navbar-nav>li>a {
+          border-bottom: 0px;
+          position: relative;
+     }
+
+
+     .component.header.newNav .component.navigation .navbar-nav>.dropdown>a:before {
+          position: absolute;
+          top: 52%;
+          right: -25px;
+          content: " ";
+          background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='1em' viewBox='0 0 448 512'%3E%3C!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --%3E%3Cstyle%3Esvg%7Bfill:%23ffd100%7D%3C/style%3E%3Cpath d='M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z'/%3E%3C/svg%3E");
+          background-size: contain;
+          background-repeat: no-repeat;
+          width: 17px;
+          height: 17px;
+          transform: translateY(-50%);
+          visibility: visible;
+          filter: brightness(0) invert(1);
+          transition: 0.5s all ease;
+          transform: translatey(-50%) rotate(-180deg);
+
+     }
+
+
+
+     .component.header.newNav .component.navigation .navbar-nav>.dropdown>a {
+          color: white !important;
+          -webkit-text-stroke: 0px #FFD100 !important;
+          transition: 0.3s all ease;
+     }
+
+     .component.header.newNav .component.navigation .navbar-nav>.dropdown.open>a {
+          color: #FFD100 !important;
+          -webkit-text-stroke: 1px #FFD100 !important;
+     }
+
+     .component.header.newNav .component.navigation .navbar-nav>.dropdown.open>a:before {
+          transform: translatey(-50%) rotate(0deg);
+          filter: none;
+     }
+
+
+
+     .component.header.newNav .logo img {
+          transition: 0.3s all ease;
+          max-height: 55px
+     }
+
+     .component.header.newNav .component.navigation .navbar-nav>li {
+          border-bottom: 0px;
+          padding: 10px 15px;
+     }
+
+
+     .component.header.newNav .component.navigation .navbar-collapse .navbar-nav {
+          height: 100vh;
+          overflow: scroll;
+     }
+
+     .component.header.newNav .component.navigation .dropdown-menu ul li a {
+          white-space: normal;
+     }
+
+     .component.header.newNav .component.navigation .navbar-nav .dropdown-menu {
+          visibility: visible;
+          opacity: 1;
+     }
+
+     .component.header.newNav .component.navigation .dropdown-menu ul li a:hover {
+          -webkit-text-stroke: 0.5px white;
+     }
+
+
+
+     .newHomeHero .content .copy h1 {
+          max-width: 100%;
+          font-size: 40px;
+          line-height: 40px;
+          font-weight: 700;
+     }
+
+     .newHomeHero .content .copy p {
+          font-size: 14px;
+          line-height: 20px;
+     }
+
+     .newHomeHero .content .copy .yellowCta {
+          margin-top: 20px;
+          max-width: 120px;
+          text-align: center;
+          max-width: 117px;
+          margin-bottom: -50px;
+          padding: 5px 19px;
+     }
+
+     .newHomeHero .content .video {
+          width: calc(100% + 100px);
+          transform: translatex(-50px);
+     }
+
+     .newFloatingCard .cardContainer {
+          flex-direction: column;
+          row-gap: 25px;
+     }
+
+     .newFloatingCard .cardContainer .newCard {
+          padding: 24px 15px;
+     }
+
+     .newFloatingCard .cardContainer .newCard .title {
+          font-size: 22px;
+          line-height: 30px;
+     }
+
+     .newFloatingCard .cardContainer .newCard .description {
+
+          line-height: 22px;
+          margin-top: 15px;
+     }
+
+     .newFloatingCard:before {
+          bottom: 80%;
+     }
+
+     .newCovarageCarousel .newCarousel .owl-content .content .owl-item {
+          padding: 20px;
+          padding-right: 60px;
+     }
+
+     .newCovarageCarousel .newCarousel img {
+          min-height: 230px;
+     }
+
+     .newCovarageCarousel .newCarousel .owl-item:first-of-type img {
+          object-position: left;
+     }
+
+     .newCovarageCarousel .newCarousel .owl-item:last-of-type img {
+          object-position: center;
+     }
+
+     .newCovarageCarousel .newCarousel .switch-buttons.mobile {
+          display: flex;
+     }
+
+     .newCovarageCarousel .newCarousel .owl-content .content .carousel-card .top .switch-buttons {
+          display: none;
+     }
+
+     .newInsuranceProducts .slide .slideContent {
+          grid-template-columns: repeat(1, 1fr);
+          row-gap: 34px;
+     }
+
+     .newInsuranceProducts .slide .slideContent .insuranceCard .icon {
+          transform: none;
+          top: 15px;
+          right: 15px;
+     }
+
+     .newInsuranceProducts .slide .slideContent .insuranceCard {
+          padding: 15px;
+          padding-right: 70px;
+     }
+
+     .newInsuranceProducts .slide .slideContent .insuranceCard .title {
+          font-size: 22px;
+          line-height: 26px;
+          margin-bottom: 20px;
+     }
+
+     .newInsuranceProducts .slide {
+          padding-top: 40px;
+     }
+
+     .newInsuranceProducts .sectionTitle {
+          padding-top: 40px;
+     }
+}
+
+@media (max-width: 576px) {
+     .component.header.newNav .component.navigation .navbar-collapse ul {
+          max-width: 100%;
+          margin-left: auto;
+          margin-right: auto;
+     }
+
+     .newHomeHero .content .copy h1 {
+          max-width: 283px;
+     }
+
+     .newHomeHero .content .copy p {
+          max-width: 390px;
+     }
+
+     .newInsuranceProducts>.container {
+          padding-left: 0px;
+          padding-right: 0px;
+     }
+
+     .newInsuranceProducts .tabs {
+          column-gap: 0px;
+     }
+
+     .halfImgHalfText .text {
+          padding-left: 15px;
+          padding-right: 80px;
+          padding-bottom: 30px;
+     }
+}
+
+/* homepage styles end*/
