@@ -451,6 +451,7 @@
      height: auto;
      position: relative;
      transition: 0.1s all ease;
+     margin-bottom: -16px;
 }
 
 .newHomeHero .content .video video {
@@ -824,7 +825,7 @@
 
      .newHomeHero .content .video {
           transform: none;
-          margin-bottom: -10px;
+          margin-bottom: -18px;
      }
 
      .newHomeHero .content .video video {
