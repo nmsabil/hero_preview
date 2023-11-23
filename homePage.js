@@ -138,15 +138,35 @@ let covarageCarousel = () => {
 }
 // covarage carousel end
 
+// logic to change video url start
+let SafariVideoChange = () => {
+     function isSafari() {
+          return /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
+     }
+
+     function loadVideo() {
+          var videoSource = isSafari() ? 'forsafari.mp4' : 'forother.webm';
+          var videoElement = document.getElementById('heroVideo');
+          videoElement.src = videoSource;
+     }
+
+     window.onload = loadVideo;
+}
+// logic to change video url end
+
 
 document.addEventListener('DOMContentLoaded', function () {
      var newNavSection = document.querySelector('.newNav');
      var covarageCarouselSection = document.querySelector('.newCovarageCarousel');
+     var heroSection = document.querySelector('#heroVideo');
      if (newNavSection) {
           Navlogic()
      }
      if (covarageCarouselSection) {
           covarageCarousel();
+     }
+     if (heroSection) {
+          SafariVideoChange();
      }
 
 
